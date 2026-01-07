@@ -1,6 +1,3 @@
-Got it! Here’s the updated **README** with the instruction to use your GitHub script directly instead of rewriting it:
-
-````markdown
 # Discord-PFP-Fetcher
 
 A simple Cloudflare Worker that automatically fetches and serves your **Discord profile picture**.  
