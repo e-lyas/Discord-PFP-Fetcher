@@ -58,4 +58,4 @@ The image will always show your current Discord avatar.
 ---
 
 ## 💡 License
-(MIT License)[https://github.com/e-lyas/Discord-PFP-Fetcher/blob/main/LICENSE] — free to use, modify, and redistribute.
+[MIT License](https://github.com/e-lyas/Discord-PFP-Fetcher/blob/main/LICENSE) — free to use, modify, and redistribute.
